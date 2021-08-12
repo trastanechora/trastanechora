@@ -7,6 +7,28 @@
 ![Profile View](https://visitor-badge.laobi.icu/badge?page_id=trastanechora.visitor-badge)
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+JavaScript               13 hrs 14 mins      ████████████████░░░░░░░░░   63.94% 
+TypeScript               4 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   19.42% 
+Vue.js                   51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.13% 
+Other                    37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.99% 
+JSON                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.9%
+
+🔥 Editors: 
+VS Code                  20 hrs 43 mins      █████████████████████████   100.0%
+
+💻 Operating System: 
+Mac                      20 hrs 43 mins      █████████████████████████   100.0%
+
+```
+
+
+ Last Updated on 12/08/2021
 <!--END_SECTION:waka-->
 
 <!--
