@@ -1,39 +1,44 @@
-### Hi there 👋
+# Hi there, I'm _Maestro Trastanechora_ 👋
 
-[![Linkedin: Mae Trastanechora](https://img.shields.io/badge/-trastanechora-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trastanechora/)](https://www.linkedin.com/in/trastanechora/)
+[![Linkedin: Mae Trastanechora](https://img.shields.io/badge/-trastanechora-blue?style=flat&logo=logmein&logoColor=white&link=https://www.linkedin.com/in/trastanechora/)](https://www.linkedin.com/in/trastanechora/)
 [![Linkedin: Mae Trastanechora](https://img.shields.io/badge/-trastanechora-DD2A7B?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/trastanechora/)](https://www.instagram.com/trastanechora/)
-[![Linkedin: Mae Trastanechora](https://img.shields.io/badge/-trastanechora-08a0e9?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/trastanechora)](https://twitter.com/trastanechora)
+[![Linkedin: Mae Trastanechora](https://img.shields.io/badge/-trastanechora-black?style=flat&logo=x&logoColor=white&link=https://twitter.com/trastanechora)](https://twitter.com/trastanechora)
 [![Linkedin: Mae Trastanechora](https://img.shields.io/badge/-trastanechora-333333?style=flat&logo=Github&logoColor=white&link=https://github.com/trastanechora)](https://github.com/trastanechora)
-![Profile View](https://visitor-badge.laobi.icu/badge?page_id=trastanechora.visitor-badge)
+![Profile View](https://visitor-badge.laobi.icu/badge?page_id=trastanechora-reset:2.visitor-badge)
 
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+I'm an experienced Front End Software Engineer with over 5 years of dedicated service in developing user-centric web applications. Proficient in core web vitals, including performance, accessibility, and SEO. Adept in managing infrastructure with tools like Docker and configuring servers with Nginx. Committed to collaboration, continuous learning, and contributing to impactful projects.
 
-```text
-💬 Programming Languages: 
-JavaScript               2 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   42.79% 
-Vue.js                   1 hr 36 mins        ██████░░░░░░░░░░░░░░░░░░░   23.97% 
-HTML                     1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   23.62% 
-JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.1% 
-Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.3%
+### More about me
 
-```
+- 🏢 I'm currently employed at [Tokopedia](https://www.tokopedia.com/about/) (part of [Bytedance](https://www.bytedance.com/en/))
+- 🔭 I’m currently exploring clean code architecture
+- 🌱 I’m currently learning to implement AI on web
+- 👯 I’m looking to collaborate on Fullstack projects
+- 🤔 I’m looking for help with [Lynx](https://lynxjs.org/index.html) or [Flutter](https://flutter.dev/)
+- 💬 Ask me about Typescript
+- 📫 You can reach out to me through [LinkedIn](https://www.linkedin.com/in/trastanechora)
+- ⚡ Fun fact: I love quotes so much!
 
+### My Hobby Projects
 
- Last Updated on 04/04/2022 17:18:26 UTC
-<!--END_SECTION:waka-->
+- [Kutipanku App](https://kutipanku.com/) - Checkout the repos [here](https://github.com/kutipanku)!
 
-<!--
-**trastanechora/trastanechora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ${\color{red}Attention!}$ I'm open to remote role opportunities ✨
 
-Here are some ideas to get you started:
+I'm on the lookout for a remote Frontend or Fullstack role! If you know of any great opportunities, I'd love to hear about them. 😊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### List of skills I'm proud of
+
+<ol>
+    <li>Typescript</li>
+    <li>React.js</li>
+    <li>Next.js</li>
+    <li>Docker</li>
+    <li>Nginx</li>
+    <li>Git</li>
+    <li>Google Cloud Platform</li>
+    <li>PostgreSQL & MongoDB</li>
+    <li>Shell Scripting & System Administration</li>
+    <li>Rest API & GraphQL API</li>
+    <li>HTML, CSS & Javascript</li>
+</ol>
